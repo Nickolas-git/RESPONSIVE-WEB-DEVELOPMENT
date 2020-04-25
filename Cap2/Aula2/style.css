@@ -1,0 +1,19 @@
+a:link{
+    color: cadetblue;
+}
+
+a:visited{
+    color: coral;
+}
+
+a:active{
+    color: crimson;
+}
+
+a:hover{
+    color: darkorange;
+}
+
+input:focus{
+    background-color: teal;
+}

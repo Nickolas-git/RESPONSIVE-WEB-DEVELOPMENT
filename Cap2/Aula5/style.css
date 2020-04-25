@@ -1,0 +1,15 @@
+@charset "UTF-8";
+@import url("../cssExterno/style.css");
+
+div{
+    color: red;
+}
+
+p{
+    color: black;
+}
+
+#idParagr{
+    color: inherit;
+}
+

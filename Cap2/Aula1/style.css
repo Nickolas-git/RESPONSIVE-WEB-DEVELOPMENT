@@ -1,0 +1,28 @@
+body {
+    background-image: linear-gradient(to bottom right, #07A3B2, #D9ECC7);
+  }
+
+.container-principal{
+  width: 650px;
+  height: 650px;  
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+p, span{
+    font-size: 20px;
+}
+
+div p{
+    color: #014871;
+}
+
+div > span{
+    color: #2A484E;
+}
+
+h5+h4{
+    color: #014871; 
+}

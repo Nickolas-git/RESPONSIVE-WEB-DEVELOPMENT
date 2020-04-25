@@ -1,0 +1,35 @@
+#p1{
+    font-family: "monotype corsiva";
+}
+
+#p2{
+    font-size: 2em;
+}
+
+#p3{
+    font-style: italic;
+}
+
+#p4{
+    font-weight: bold;
+}
+
+#p5{
+    text-align: center;
+}
+
+#p6{
+    text-decoration: underline;
+}
+
+#p7{
+    text-indent: 50px;
+}
+
+#p8{
+    letter-spacing: 15px;
+}
+
+#p9{
+    word-spacing: 20px;
+}

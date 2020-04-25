@@ -1,0 +1,12 @@
+input[type=text]{
+    background-color: lightpink;
+}
+
+input[required]{
+    border-color: red;
+}
+
+[lang|=pt]{
+    font-style: italic;
+    font-size: 2em;
+}
